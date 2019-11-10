@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../AcademApp-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Attendance_Register" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../College final defense - Copy/pdfviewfixed/login" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../College final defense - Copy/pdfviewfixed/loginsignup" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../College final defense V2/pdfviewfixed/loginsignup" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../College final defense V4/College final defense V4/pdfviewfixed/loginsignup" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../College final defense V4/pdfviewfixed/loginsignup" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../College final defense V5/e-kakchhya/loginsignup" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../College final defense V5/pdfviewfixed/MyApplication" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../College final defense V5/pdfviewfixed/e-kakchhya" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../College final defense V5/pdfviewfixed/loginsignup" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../College final defense/pdfviewfixed/loginsignup" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Cropta-sem-project-master/CROPTA" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Cropta-sem-project-master/CROPTA_vs_10" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../DummyProjectSignup" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Ekakchhya-final/app" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../IQAC-Admin-App-Android-Studio-Material-Design-Firebase-Realtime-Database" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../IQAC-User-App-Android-Studio-Material-Design-Firebase-Realtime-Database" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../New folder (2)/loginsignup3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../New folder (2)/loginsignupold" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../New folder (3)/loginsignup" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../New folder/College final defense V3/pdfviewfixed/loginsignup" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Routine" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Simple-Notes-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../StudentAttendanceCheck-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../chatBox" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../latest version minor/loginsignupV5" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../loginsignup" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../loginsignupcommonemail/loginsignup" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../materiallogindemo-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../pdfviewfixed/loginsignup" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../project things/chatBox" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../project things/latest version minor/loginsignupV5" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../quickstart-android-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../quickstart-android-master/database" value="PREVIEW" />
+        <entry key="D:/TUTORIALS_VIDS/Udemy - Android O &amp; Java - The Complete Android Development Bootcamp/04 Build a Dice App to Learn Java &amp; XML Fundamentals [Tutorial]/Dicee-Completed-Nested-Hierarchy-master" value="PREVIEW" />
+        <entry key="E:/TeacherRoutine" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="700" />
+    <option name="height" value="735" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="Pixel_XL_API_29" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+</project>
